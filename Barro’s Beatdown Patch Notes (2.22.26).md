@@ -17,11 +17,6 @@ We've had two instances of the power going out at the beginning of our tournamen
 - Each tournament setup now has its own breaker. This means that no single breaker will need to withstand more power draw than it can handle. This will prevent any breakers from tripping due to high power usage.
 - We are working on adding string lights in the patio area for better lighting and accessibility during the night. More info coming soon.
 
-### 🎮 Controller Policy
-- Brook adapters and similar third-party adapters are allowed but must be tournament-approved.
-- Turbo and macro functions remain strictly banned.
-- Wireless controllers must be synced prior to match start — desync penalties enforced.
-
 ---
 
 ## Online Events
@@ -53,5 +48,6 @@ More awards are in the works and we would love to hear your suggestions! These a
 
 Thank you for supporting **Barro’s Beatdown**!  
 We’re committed to leveling up the experience for players and spectators alike.
+
 
 **See you in bracket. Support your locals.**
