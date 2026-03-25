@@ -28,6 +28,7 @@ The following contains rules that will need to be followed at Barro's Beatdown. 
 It is of the utmost importance that Barro's Beatdown remains fair and competitive for all players regardless of skill.
 
 - **Collusion** of any kind will result in a permanent ban. No exceptions.
+    - Any offer of collusion, regardless of whether it goes through or not, will result in a permanent ban. There will be no tolerance for it.
 - **Pot Splitting** will result in a permanent ban. No exceptions.
 - **Cheating** of any kind will result in a permanent ban. No exceptions.
     - Includes:
