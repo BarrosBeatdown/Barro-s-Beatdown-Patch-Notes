@@ -9,7 +9,7 @@ The following contains rules that will need to be followed at Barro's Beatdown. 
 - Wireless controllers must be synced prior to match start — desync and pause penalties will be enforced.
 - Notify the TO ASAP if your controller takes the audio of the setup.
 - **Keyboards**
-    - All Mac keyboards are banned
+    - All non-Windows keyboards are banned
     - If you are using a keyboard and use the "Keyboard Standalone Mode", it is your responsibility to turn it off before you leave the setup. Failure to do so, may result in a disqualification. Multiple offenses may result in a ban.
 
 ### Gameplay
