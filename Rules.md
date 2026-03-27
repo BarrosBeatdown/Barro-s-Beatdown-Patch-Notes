@@ -16,9 +16,9 @@ The following contains rules that will need to be followed at Barro's Beatdown. 
 - All sets are FT2 until Top 3 unless otherwise stated by the TO.
 - Loser of a game can switch characters. Winner of a game can not switch characters. If the loser decides to switch characters, the winner may change an auxiliary mode for their character (i.e.: Ultra, variation, etc.).
 - **Pausing during a match**
-    - Any pauses during a tournament (regardless of whether it is intentional or not) will have the following consequences (Player who paused will be referred to as **"culprit"**, Player who did not pause will be referred to as **"opponent"**):
+    - Any pauses during a tournament (regardless of whether it is intentional or not) will have the following consequences (Player who paused will be referred to as **"culprit"**, Player who did not pause will be referred to as **"opponent"**) (These instances are for the entire tournament, not just one set) :
         - First instance: **Opponent** may decide to take current the round or game. **Opponent's** decision is final.
-        - Second instance: **Culprit** will forfeit the set.
+        - Second instance: **Culprit** will forfeit the current set.
         - Third instance: **Culprit** will be disqualified from the tournament.
         - Fourth instance: **Culprit** will be banned from Barro's Beatdown for a duration decided by the TO.
     - Any pauses that happen must be communicated to the TO as soon as they happen. Failure to do so may be result in a forfeiture of the set or disqualification.
