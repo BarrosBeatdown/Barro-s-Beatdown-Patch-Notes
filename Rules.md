@@ -10,7 +10,7 @@ The following contains rules that will need to be followed at Barro's Beatdown. 
 - Notify the TO ASAP if your controller takes the audio of the setup.
 - **Keyboards**
     - All non-Windows keyboards are banned
-    - If you are using a keyboard and use the "Keyboard Standalone Mode", it is your responsibility to turn it off before you leave the setup. Failure to do so, may result in a disqualification. Multiple offenses may result in a ban.
+    - If any player using a keyboard and use the "Keyboard Standalone Mode", it is their responsibility to turn it off before they leave the setup. Failure to do so, may result in a disqualification. Multiple offenses may result in a ban of the player's keyboard and they must use a different controller.
 
 ### Gameplay
 - All sets are FT2 until Top 3 unless otherwise stated by the TO.
