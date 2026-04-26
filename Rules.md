@@ -23,6 +23,7 @@ The following contains rules that will need to be followed at Barro's Beatdown. 
         - Fourth instance: **Culprit** will be banned from Barro's Beatdown for a duration decided by the TO.
     - Any pauses that happen must be communicated to the TO as soon as they happen. Failure to do so may be result in a forfeiture of the set or disqualification.
     - It is the player's responsibility to not hit the pause button. Tournament locks are recommended for your controller.
+- Any "Training Stage" is banned when playing on stream. Any match that is played on this stage, while on stream, will need to be replayed.
 
 ### Integrity
 It is of the utmost importance that Barro's Beatdown remains fair and competitive for all players regardless of skill.
